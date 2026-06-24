@@ -7,6 +7,8 @@
 
 An interactive reinforcement learning project where an AI agent learns to drive a car on a custom track using PPO (Proximal Policy Optimization). The focus of this project is not just making it work — but understanding *why* it works through systematic reward shaping and hyperparameter tuning.
 
+**[▶ Watch the trained agent drive](https://drive.google.com/file/d/1moOJdhn-2XTUbPm8Y2I-_lR_76FmFDR2/view)**
+
 ---
 
 ## Table of Contents
@@ -272,7 +274,7 @@ Status:  TRAINING
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Soorya2201/RL_Training-of-vehicle-agent-using-Stable_Baseline3
+git clone https://github.com/Soorya2201/RL-Autonomous-Driving
 ```
 
 ### 2. Install Dependencies
